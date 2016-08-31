@@ -5,7 +5,7 @@ import request from 'request';
 
 export default ( robot => {
   const options = {
-    url: 'http://takken.fx-ex.info/question.php',
+    url: '',
     encoding: null
   }
 
